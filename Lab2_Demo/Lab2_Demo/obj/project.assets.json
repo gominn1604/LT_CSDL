@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Học tập\\Lập trình Cơ sở dữ liệu\\Lab2_Demo\\Lab2_Demo\\Lab2_Demo.csproj",
+      "projectUniqueName": "D:\\LT_CSDL\\Lab2_Demo\\Lab2_Demo\\Lab2_Demo.csproj",
       "projectName": "Lab2_Demo",
-      "projectPath": "D:\\Học tập\\Lập trình Cơ sở dữ liệu\\Lab2_Demo\\Lab2_Demo\\Lab2_Demo.csproj",
+      "projectPath": "D:\\LT_CSDL\\Lab2_Demo\\Lab2_Demo\\Lab2_Demo.csproj",
       "packagesPath": "C:\\Users\\GoMinn\\.nuget\\packages\\",
-      "outputPath": "D:\\Học tập\\Lập trình Cơ sở dữ liệu\\Lab2_Demo\\Lab2_Demo\\obj\\",
+      "outputPath": "D:\\LT_CSDL\\Lab2_Demo\\Lab2_Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GoMinn\\AppData\\Roaming\\NuGet\\NuGet.Config",

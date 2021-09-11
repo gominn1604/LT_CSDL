@@ -15,3 +15,20 @@ D:\Học tập\Lập trình Cơ sở dữ liệu\Lab2_Demo\Lab2_Demo\obj\Debug\n
 D:\Học tập\Lập trình Cơ sở dữ liệu\Lab2_Demo\Lab2_Demo\obj\Debug\netcoreapp3.1\Lab2_Demo.pdb
 D:\Học tập\Lập trình Cơ sở dữ liệu\Lab2_Demo\Lab2_Demo\obj\Debug\netcoreapp3.1\Lab2_Demo.genruntimeconfig.cache
 D:\Học tập\Lập trình Cơ sở dữ liệu\Lab2_Demo\Lab2_Demo\obj\Debug\netcoreapp3.1\Lab2_Demo.frmTrungTam.resources
+D:\LT_CSDL\Lab2_Demo\Lab2_Demo\bin\Debug\netcoreapp3.1\Lab2_Demo.exe
+D:\LT_CSDL\Lab2_Demo\Lab2_Demo\bin\Debug\netcoreapp3.1\Lab2_Demo.deps.json
+D:\LT_CSDL\Lab2_Demo\Lab2_Demo\bin\Debug\netcoreapp3.1\Lab2_Demo.runtimeconfig.json
+D:\LT_CSDL\Lab2_Demo\Lab2_Demo\bin\Debug\netcoreapp3.1\Lab2_Demo.runtimeconfig.dev.json
+D:\LT_CSDL\Lab2_Demo\Lab2_Demo\bin\Debug\netcoreapp3.1\Lab2_Demo.dll
+D:\LT_CSDL\Lab2_Demo\Lab2_Demo\bin\Debug\netcoreapp3.1\Lab2_Demo.pdb
+D:\LT_CSDL\Lab2_Demo\Lab2_Demo\obj\Debug\netcoreapp3.1\Lab2_Demo.csproj.AssemblyReference.cache
+D:\LT_CSDL\Lab2_Demo\Lab2_Demo\obj\Debug\netcoreapp3.1\Lab2_Demo.frmTrungTam.resources
+D:\LT_CSDL\Lab2_Demo\Lab2_Demo\obj\Debug\netcoreapp3.1\Lab2_Demo.Properties.Resources.resources
+D:\LT_CSDL\Lab2_Demo\Lab2_Demo\obj\Debug\netcoreapp3.1\Lab2_Demo.csproj.GenerateResource.cache
+D:\LT_CSDL\Lab2_Demo\Lab2_Demo\obj\Debug\netcoreapp3.1\Lab2_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT_CSDL\Lab2_Demo\Lab2_Demo\obj\Debug\netcoreapp3.1\Lab2_Demo.AssemblyInfoInputs.cache
+D:\LT_CSDL\Lab2_Demo\Lab2_Demo\obj\Debug\netcoreapp3.1\Lab2_Demo.AssemblyInfo.cs
+D:\LT_CSDL\Lab2_Demo\Lab2_Demo\obj\Debug\netcoreapp3.1\Lab2_Demo.csproj.CoreCompileInputs.cache
+D:\LT_CSDL\Lab2_Demo\Lab2_Demo\obj\Debug\netcoreapp3.1\Lab2_Demo.dll
+D:\LT_CSDL\Lab2_Demo\Lab2_Demo\obj\Debug\netcoreapp3.1\Lab2_Demo.pdb
+D:\LT_CSDL\Lab2_Demo\Lab2_Demo\obj\Debug\netcoreapp3.1\Lab2_Demo.genruntimeconfig.cache

@@ -127,5 +127,10 @@ namespace Lab2_Ex2
             frmTimKiem fr = new frmTimKiem(qlgv);
             fr.ShowDialog();
         }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

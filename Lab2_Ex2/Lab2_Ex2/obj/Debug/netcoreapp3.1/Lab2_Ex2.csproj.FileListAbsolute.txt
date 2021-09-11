@@ -17,3 +17,22 @@ D:\Học tập\Lập trình Cơ sở dữ liệu\Lab2_Ex2\Lab2_Ex2\obj\Debug\net
 D:\Học tập\Lập trình Cơ sở dữ liệu\Lab2_Ex2\Lab2_Ex2\obj\Debug\netcoreapp3.1\Lab2_Ex2.frmTBGiaoVien.resources
 D:\Học tập\Lập trình Cơ sở dữ liệu\Lab2_Ex2\Lab2_Ex2\obj\Debug\netcoreapp3.1\Lab2_Ex2.Properties.Resources.resources
 D:\Học tập\Lập trình Cơ sở dữ liệu\Lab2_Ex2\Lab2_Ex2\obj\Debug\netcoreapp3.1\Lab2_Ex2.frmTimKiem.resources
+D:\LT_CSDL\Lab2_Ex2\Lab2_Ex2\bin\Debug\netcoreapp3.1\Lab2_Ex2.exe
+D:\LT_CSDL\Lab2_Ex2\Lab2_Ex2\bin\Debug\netcoreapp3.1\Lab2_Ex2.deps.json
+D:\LT_CSDL\Lab2_Ex2\Lab2_Ex2\bin\Debug\netcoreapp3.1\Lab2_Ex2.runtimeconfig.json
+D:\LT_CSDL\Lab2_Ex2\Lab2_Ex2\bin\Debug\netcoreapp3.1\Lab2_Ex2.runtimeconfig.dev.json
+D:\LT_CSDL\Lab2_Ex2\Lab2_Ex2\bin\Debug\netcoreapp3.1\Lab2_Ex2.dll
+D:\LT_CSDL\Lab2_Ex2\Lab2_Ex2\bin\Debug\netcoreapp3.1\Lab2_Ex2.pdb
+D:\LT_CSDL\Lab2_Ex2\Lab2_Ex2\obj\Debug\netcoreapp3.1\Lab2_Ex2.csproj.AssemblyReference.cache
+D:\LT_CSDL\Lab2_Ex2\Lab2_Ex2\obj\Debug\netcoreapp3.1\Lab2_Ex2.frmGiaoVien.resources
+D:\LT_CSDL\Lab2_Ex2\Lab2_Ex2\obj\Debug\netcoreapp3.1\Lab2_Ex2.frmTBGiaoVien.resources
+D:\LT_CSDL\Lab2_Ex2\Lab2_Ex2\obj\Debug\netcoreapp3.1\Lab2_Ex2.frmTimKiem.resources
+D:\LT_CSDL\Lab2_Ex2\Lab2_Ex2\obj\Debug\netcoreapp3.1\Lab2_Ex2.Properties.Resources.resources
+D:\LT_CSDL\Lab2_Ex2\Lab2_Ex2\obj\Debug\netcoreapp3.1\Lab2_Ex2.csproj.GenerateResource.cache
+D:\LT_CSDL\Lab2_Ex2\Lab2_Ex2\obj\Debug\netcoreapp3.1\Lab2_Ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT_CSDL\Lab2_Ex2\Lab2_Ex2\obj\Debug\netcoreapp3.1\Lab2_Ex2.AssemblyInfoInputs.cache
+D:\LT_CSDL\Lab2_Ex2\Lab2_Ex2\obj\Debug\netcoreapp3.1\Lab2_Ex2.AssemblyInfo.cs
+D:\LT_CSDL\Lab2_Ex2\Lab2_Ex2\obj\Debug\netcoreapp3.1\Lab2_Ex2.csproj.CoreCompileInputs.cache
+D:\LT_CSDL\Lab2_Ex2\Lab2_Ex2\obj\Debug\netcoreapp3.1\Lab2_Ex2.dll
+D:\LT_CSDL\Lab2_Ex2\Lab2_Ex2\obj\Debug\netcoreapp3.1\Lab2_Ex2.pdb
+D:\LT_CSDL\Lab2_Ex2\Lab2_Ex2\obj\Debug\netcoreapp3.1\Lab2_Ex2.genruntimeconfig.cache
