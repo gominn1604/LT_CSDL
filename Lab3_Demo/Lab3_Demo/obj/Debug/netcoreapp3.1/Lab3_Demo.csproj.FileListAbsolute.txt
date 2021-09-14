@@ -1,0 +1,34 @@
+D:\Học tập\Lập trình Cơ sở dữ liệu\Lab 3\Lab3_Demo\Lab3_Demo\bin\Debug\netcoreapp3.1\Lab3_Demo.exe
+D:\Học tập\Lập trình Cơ sở dữ liệu\Lab 3\Lab3_Demo\Lab3_Demo\bin\Debug\netcoreapp3.1\Lab3_Demo.deps.json
+D:\Học tập\Lập trình Cơ sở dữ liệu\Lab 3\Lab3_Demo\Lab3_Demo\bin\Debug\netcoreapp3.1\Lab3_Demo.runtimeconfig.json
+D:\Học tập\Lập trình Cơ sở dữ liệu\Lab 3\Lab3_Demo\Lab3_Demo\bin\Debug\netcoreapp3.1\Lab3_Demo.runtimeconfig.dev.json
+D:\Học tập\Lập trình Cơ sở dữ liệu\Lab 3\Lab3_Demo\Lab3_Demo\bin\Debug\netcoreapp3.1\Lab3_Demo.dll
+D:\Học tập\Lập trình Cơ sở dữ liệu\Lab 3\Lab3_Demo\Lab3_Demo\bin\Debug\netcoreapp3.1\Lab3_Demo.pdb
+D:\Học tập\Lập trình Cơ sở dữ liệu\Lab 3\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.csproj.AssemblyReference.cache
+D:\Học tập\Lập trình Cơ sở dữ liệu\Lab 3\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.frmSinhVien.resources
+D:\Học tập\Lập trình Cơ sở dữ liệu\Lab 3\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.csproj.GenerateResource.cache
+D:\Học tập\Lập trình Cơ sở dữ liệu\Lab 3\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học tập\Lập trình Cơ sở dữ liệu\Lab 3\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.AssemblyInfoInputs.cache
+D:\Học tập\Lập trình Cơ sở dữ liệu\Lab 3\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.AssemblyInfo.cs
+D:\Học tập\Lập trình Cơ sở dữ liệu\Lab 3\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.csproj.CoreCompileInputs.cache
+D:\Học tập\Lập trình Cơ sở dữ liệu\Lab 3\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.dll
+D:\Học tập\Lập trình Cơ sở dữ liệu\Lab 3\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.pdb
+D:\Học tập\Lập trình Cơ sở dữ liệu\Lab 3\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.genruntimeconfig.cache
+D:\Học tập\Lập trình Cơ sở dữ liệu\Lab 3\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.frmTuyChon.resources
+D:\LT_CSDL\Lab3_Demo\Lab3_Demo\bin\Debug\netcoreapp3.1\Lab3_Demo.exe
+D:\LT_CSDL\Lab3_Demo\Lab3_Demo\bin\Debug\netcoreapp3.1\Lab3_Demo.deps.json
+D:\LT_CSDL\Lab3_Demo\Lab3_Demo\bin\Debug\netcoreapp3.1\Lab3_Demo.runtimeconfig.json
+D:\LT_CSDL\Lab3_Demo\Lab3_Demo\bin\Debug\netcoreapp3.1\Lab3_Demo.runtimeconfig.dev.json
+D:\LT_CSDL\Lab3_Demo\Lab3_Demo\bin\Debug\netcoreapp3.1\Lab3_Demo.dll
+D:\LT_CSDL\Lab3_Demo\Lab3_Demo\bin\Debug\netcoreapp3.1\Lab3_Demo.pdb
+D:\LT_CSDL\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.csproj.AssemblyReference.cache
+D:\LT_CSDL\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.frmSinhVien.resources
+D:\LT_CSDL\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.frmTuyChon.resources
+D:\LT_CSDL\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.csproj.GenerateResource.cache
+D:\LT_CSDL\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT_CSDL\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.AssemblyInfoInputs.cache
+D:\LT_CSDL\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.AssemblyInfo.cs
+D:\LT_CSDL\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.csproj.CoreCompileInputs.cache
+D:\LT_CSDL\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.dll
+D:\LT_CSDL\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.pdb
+D:\LT_CSDL\Lab3_Demo\Lab3_Demo\obj\Debug\netcoreapp3.1\Lab3_Demo.genruntimeconfig.cache
