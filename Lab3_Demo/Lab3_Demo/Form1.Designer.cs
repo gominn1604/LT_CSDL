@@ -288,6 +288,7 @@ namespace Lab3_Demo
             // 
             // clbChuyenNganh
             // 
+            this.clbChuyenNganh.CheckOnClick = true;
             this.clbChuyenNganh.FormattingEnabled = true;
             this.clbChuyenNganh.Items.AddRange(new object[] {
             "Mạng truyền thông",
@@ -434,6 +435,8 @@ namespace Lab3_Demo
             this.lvSinhVien.TabIndex = 0;
             this.lvSinhVien.UseCompatibleStateImageBehavior = false;
             this.lvSinhVien.View = System.Windows.Forms.View.Details;
+            this.lvSinhVien.ItemChecked += new System.Windows.Forms.ItemCheckedEventHandler(this.lvSinhVien_ItemChecked);
+            this.lvSinhVien.SelectedIndexChanged += new System.EventHandler(this.lvSinhVien_SelectedIndexChanged_1);
             // 
             // columnHeader1
             // 
@@ -500,7 +503,7 @@ namespace Lab3_Demo
             this.fileToolStripMenuItem,
             this.thoatToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(211, 80);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(105, 52);
             // 
             // fileToolStripMenuItem
             // 
@@ -508,20 +511,20 @@ namespace Lab3_Demo
             this.mởFileToolStripMenuItem,
             this.thoátToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
-            this.fileToolStripMenuItem.Size = new System.Drawing.Size(210, 24);
+            this.fileToolStripMenuItem.Size = new System.Drawing.Size(104, 24);
             this.fileToolStripMenuItem.Text = "File";
             // 
             // mởFileToolStripMenuItem
             // 
             this.mởFileToolStripMenuItem.Name = "mởFileToolStripMenuItem";
-            this.mởFileToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.mởFileToolStripMenuItem.Size = new System.Drawing.Size(141, 26);
             this.mởFileToolStripMenuItem.Text = "Mở File";
             this.mởFileToolStripMenuItem.Click += new System.EventHandler(this.mởFileToolStripMenuItem_Click);
             // 
             // thoátToolStripMenuItem
             // 
             this.thoátToolStripMenuItem.Name = "thoátToolStripMenuItem";
-            this.thoátToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.thoátToolStripMenuItem.Size = new System.Drawing.Size(141, 26);
             this.thoátToolStripMenuItem.Text = "Thoát";
             this.thoátToolStripMenuItem.Click += new System.EventHandler(this.thoátToolStripMenuItem_Click);
             // 
@@ -533,7 +536,7 @@ namespace Lab3_Demo
             this.sửaToolStripMenuItem,
             this.listViewToolStripMenuItem});
             this.thoatToolStripMenuItem.Name = "thoatToolStripMenuItem";
-            this.thoatToolStripMenuItem.Size = new System.Drawing.Size(210, 24);
+            this.thoatToolStripMenuItem.Size = new System.Drawing.Size(104, 24);
             this.thoatToolStripMenuItem.Text = "Edit";
             // 
             // themToolStripMenuItem

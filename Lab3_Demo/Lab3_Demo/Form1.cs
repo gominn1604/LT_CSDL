@@ -124,16 +124,6 @@ namespace Lab3_Demo
             int count = lvSinhVien.Items.Count;
             tsslTongSinhVien.Text = "Tổng sinh viên: " + count;
         }
-        private void lvSinhVien_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            int count = this.lvSinhVien.SelectedItems.Count;
-            if(count>0)
-            {
-                ListViewItem lvitem = this.lvSinhVien.SelectedItems[0];
-                SinhVien sv = GetSinhVienLV(lvitem);
-                ThietLapThongTin(sv);
-            }
-        }
 
         private void btnThem_Click(object sender, EventArgs e)
         {
@@ -152,6 +142,7 @@ namespace Lab3_Demo
                 this.qlsv.Them(sv);
                 this.LoadListView();
             } 
+                
         }
 
         private void btnThoat_Click(object sender, EventArgs e)
@@ -286,6 +277,25 @@ namespace Lab3_Demo
         private void thoátToolStripMenuItem_Click(object sender, EventArgs e)
         {
             btnThoat.PerformClick();
+        }
+
+        private void lvSinhVien_ItemChecked(object sender, ItemCheckedEventArgs e)
+        {
+            foreach (var sv in qlsv.DanhSach)
+            {
+                ThietLapThongTin(sv);
+            }
+        }
+
+        private void lvSinhVien_SelectedIndexChanged_1(object sender, EventArgs e)
+        {
+            int count = this.lvSinhVien.SelectedItems.Count;
+            if (count > 0)
+            {
+                ListViewItem lvitem = this.lvSinhVien.SelectedItems[0];
+                SinhVien sv = GetSinhVienLV(lvitem);
+                ThietLapThongTin(sv);
+            }
         }
     }
 }
