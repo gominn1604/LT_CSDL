@@ -162,6 +162,10 @@ namespace Lab_4
                     dssv.Luu(dssv.DanhSach);
                     Application.Exit();
                 }    
+                else
+                {
+                    Application.Exit();
+                }    
             }
         }
 
@@ -179,8 +183,8 @@ namespace Lab_4
                 {
                     return (obj2 as SinhVien).MSSV.CompareTo(obj1.ToString());
                 });
-                LoadListView();
                 MessageBox.Show("Đã sửa thông tin của sinh viên có mã số " + sv.MSSV);
+                LoadListView();
             }
             else
             {

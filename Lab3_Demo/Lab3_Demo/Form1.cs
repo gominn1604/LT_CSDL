@@ -139,6 +139,24 @@ namespace Lab3_Demo
             }
             else
             {
+
+                try
+                {
+                    int count = clbChuyenNganh.CheckedItems.Count;
+                    if (count == 0)
+                    { }
+                    string cn = "";
+                    foreach (string s in sv.ChuyenNganh)
+                    {
+                        cn += s + ",";
+                    }
+                    cn = cn.Substring(0, cn.Length - 1);
+                }
+                catch (Exception)
+                {
+                    MessageBox.Show("Lỗi!", "Vui lòng chọn ít nhất 1 chuyên ngành!");
+                }
+                
                 this.qlsv.Them(sv);
                 this.LoadListView();
             } 
