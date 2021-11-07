@@ -1,0 +1,56 @@
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\Lab6_Basic_Command.exe
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\Lab6_Basic_Command.deps.json
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\Lab6_Basic_Command.runtimeconfig.json
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\Lab6_Basic_Command.runtimeconfig.dev.json
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\Lab6_Basic_Command.dll
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\Lab6_Basic_Command.pdb
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.csproj.AssemblyReference.cache
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.Form1.resources
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.csproj.GenerateResource.cache
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.AssemblyInfoInputs.cache
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.AssemblyInfo.cs
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.csproj.CoreCompileInputs.cache
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.csproj.CopyComplete
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.dll
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.pdb
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.genruntimeconfig.cache
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.frmFood.resources
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.BillsForm.resources
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.MainForm.resources
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.BillDetailsForm.resources
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.AccountManager.resources
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\Lab6_Basic_Command.exe
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\Lab6_Basic_Command.deps.json
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\Lab6_Basic_Command.runtimeconfig.json
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\Lab6_Basic_Command.runtimeconfig.dev.json
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\Lab6_Basic_Command.dll
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\Lab6_Basic_Command.pdb
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.csproj.AssemblyReference.cache
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.AccountManager.resources
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.BillDetailsForm.resources
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.BillsForm.resources
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.frmFood.resources
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.Form1.resources
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.MainForm.resources
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.csproj.GenerateResource.cache
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.AssemblyInfoInputs.cache
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.AssemblyInfo.cs
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.csproj.CoreCompileInputs.cache
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.csproj.CopyComplete
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.dll
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.pdb
+D:\LT_CSDL\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\netcoreapp3.1\Lab6_Basic_Command.genruntimeconfig.cache
