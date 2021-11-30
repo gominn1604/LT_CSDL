@@ -1,0 +1,12 @@
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab8\DataAccess\bin\Debug\DataAccess.dll
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab8\DataAccess\bin\Debug\DataAccess.pdb
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab8\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab8\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab8\DataAccess\obj\Debug\DataAccess.dll
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab8\DataAccess\obj\Debug\DataAccess.pdb
+D:\LT_CSDL\Lab8\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\LT_CSDL\Lab8\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\LT_CSDL\Lab8\DataAccess\obj\Debug\DataAccess.dll
+D:\LT_CSDL\Lab8\DataAccess\obj\Debug\DataAccess.pdb
+D:\LT_CSDL\Lab8\DataAccess\bin\Debug\DataAccess.dll
+D:\LT_CSDL\Lab8\DataAccess\bin\Debug\DataAccess.pdb

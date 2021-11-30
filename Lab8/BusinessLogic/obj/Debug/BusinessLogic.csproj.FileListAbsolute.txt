@@ -1,0 +1,18 @@
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab8\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab8\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab8\BusinessLogic\bin\Debug\DataAccess.dll
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab8\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab8\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab8\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab8\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab8\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab8\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\LT_CSDL\Lab8\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\LT_CSDL\Lab8\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\LT_CSDL\Lab8\BusinessLogic\bin\Debug\DataAccess.dll
+D:\LT_CSDL\Lab8\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\LT_CSDL\Lab8\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\LT_CSDL\Lab8\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\LT_CSDL\Lab8\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\LT_CSDL\Lab8\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\LT_CSDL\Lab8\BusinessLogic\obj\Debug\BusinessLogic.pdb
