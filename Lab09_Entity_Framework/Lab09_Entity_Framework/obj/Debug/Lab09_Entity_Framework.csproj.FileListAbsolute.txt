@@ -1,0 +1,17 @@
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.exe.config
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.exe
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.pdb
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.dll
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.xml
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.AssemblyReference.cache
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.MainForm.resources
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.Properties.Resources.resources
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.GenerateResource.cache
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.CoreCompileInputs.cache
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.CopyComplete
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.exe
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.pdb
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.UpdateCategoryForm.resources
+D:\Học tập\Năm 3 - Kì 1\Lập trình Cơ sở dữ liệu\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.UpdateFoodForm.resources
